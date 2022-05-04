@@ -1,0 +1,43 @@
+_repo: La-Fin-de-Cheri_67930
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Colette
+    aliases:
+    - Gauthier-Villars, Henry, Mme
+    - Willy, Colette
+    - Jouvenel, Gabrielle Claudine Colette de
+    - Colette, Sidonie Gabrielle
+    - Colette, Sidonie-Gabrielle
+    birthdate: 1873
+    deathdate: 1954
+    gutenberg_agent_id: '2065'
+    url: http://www.gutenberg.org/2009/agents/2065
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Colette
+    - https://en.wikipedia.org/wiki/Colette
+description: ''
+gutenberg_issued: '2022-04-26'
+identifiers:
+  gutenberg: '67930'
+  lccn: '26015636'
+language: fr
+pgterms:marc904: https://catalog.hathitrust.org/Record/004459555
+pgterms:marc905: 20220420102022colette
+pgterms:marc906: '1926'
+pgterms:marc907: FR
+production_note: Laura Natal Rodrigues (Images generously made available by Hathi
+  Trust Digital Library.)
+publication_note: France :E. Flammarion,1926.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Courtesans -- Fiction'
+- !lcsh 'France -- Fiction'
+- !lcsh 'Young men -- Fiction'
+- !lcsh 'Middle-aged women -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+title: La Fin de Chéri
+url: http://www.gutenberg.org/ebooks/67930
